@@ -91,7 +91,7 @@
   },
   "dependencies": {
     "create-react-context": "^0.2.2",
-    "element-resize-detector": "^1.1.12",
+    "element-resize-detector": "^1.2.4",
     "lodash.isequal": "^4.5.0"
   },
   "peerDependencies": {
